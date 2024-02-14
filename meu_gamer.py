@@ -33,7 +33,7 @@ def jogo():
     my_letras_descobertas = ['*' for letra in my_palavra]
 
     # Numero de chances
-    my_chances = 8
+    my_chances = 9
 
     # Lista para as letras erradas
     my_letras_erradas = []
