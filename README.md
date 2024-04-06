@@ -57,3 +57,16 @@ Forma de descobrir que foi vencedor ou perdedor:
 
 - Para a versão perdedora, temos um condicional if fora do loop while.
 - Então, se a variável "my_chances" chegar a zero, o loop while encerra e caimos nesse condicional " if ". Ele verifica se há '*' na variável responsável por armazenar as palavras certas, havendo, a mensagem de que o usuário perdeu o jogo é exibida!
+
+#
+Recursos usados no código:
+
+- Funções def( );
+- Pacote random para sorteio aleatório;
+- Listas em python "[ ]";
+- Loop for;
+- Loop while;
+- Operadores lógicos: in / not in;
+- Join para união de string;
+- Condicionais: if / elif / else;
+- Ativador __main__
